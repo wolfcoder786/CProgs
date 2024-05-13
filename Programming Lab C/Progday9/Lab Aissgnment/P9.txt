@@ -1,0 +1,4 @@
+//write  a program to swap the first and last digit of a number;
+// WAP to find the frequency of each digit in a given number 
+//Wap to print fibonacci series upto n terms 
+//WAP to find once complement of a binary number 

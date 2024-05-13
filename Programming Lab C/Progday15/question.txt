@@ -1,0 +1,5 @@
+1.WAP to print the fisrt 50 natural number using recursion
+2. WAP to Find factorial f a number using recursion
+3.WAP to calculate the sum of number from 1 to n using recursion
+4.WAP to print even or odd number in a given range using recursion
+
