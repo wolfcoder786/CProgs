@@ -97,7 +97,7 @@ void display(struct stack *ptr){
 }
 int main(){
 
-    char * exp = "8*(9)";
+    char * exp = "(8*9)";
     if (parenthesismatch(exp))
     {
         printf("Matching");
