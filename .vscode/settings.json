@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "array": "c",
-        "string": "c"
+        "string": "c",
+        "SRTF_2.C": "cpp"
     }
 }
